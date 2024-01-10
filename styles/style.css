@@ -212,6 +212,10 @@ ol {
   text-decoration: none;
 }
 
+.content__card-link_current {
+  background: #545050;
+}
+
 .content__video-card {
   display: flex;
   align-items: flex-start;
